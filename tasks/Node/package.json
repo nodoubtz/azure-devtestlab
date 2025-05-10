@@ -4,7 +4,7 @@
   "description": "Collection of cross-platform Azure Pipelines tasks to interact with Azure DevTest Labs.",
   "main": "index.js",
   "dependencies": {
-    "@azure/arm-devtestlabs": "^3.2.0",
+    "@azure/arm-devtestlabs": "^4.1.0",
     "@azure/core-tracing": "^1.0.0-preview.11",
     "@azure/arm-resources": "^4.0.0",
     "@azure/ms-rest-js": "^2.4.1",
