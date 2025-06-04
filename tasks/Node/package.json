@@ -4,17 +4,17 @@
   "description": "Collection of cross-platform Azure Pipelines tasks to interact with Azure DevTest Labs.",
   "main": "index.js",
   "dependencies": {
-    "@azure/arm-devtestlabs": "^3.2.0",
+    "@azure/arm-devtestlabs": "^4.1.0",
     "@azure/core-tracing": "^1.0.0-preview.11",
     "@azure/arm-resources": "^4.0.0",
     "@azure/ms-rest-js": "^2.4.1",
-    "@azure/ms-rest-nodeauth": "^3.0.9",
+    "@azure/ms-rest-nodeauth": "^3.1.1",
     "@azure/storage-blob": "^12.5.0",
     "azure-pipelines-task-lib": "^3.1.2",
     "isomorphic-fetch": "^3.0.0",
     "minimist": "^1.2.6",
     "tough-cookie": "^4.0.0",
-    "axios": "^0.21.4"
+    "axios": "^1.8.4"
   },
   "devDependencies": {
     "@types/mocha": "^8.2.2",
